@@ -30,9 +30,8 @@ function lib.warmup()
     showWarning("chromecustomtabs.warmup()")
 end
 
-
 function lib.mayLaunch()
-    showWarning("chromecustomtabs.warmup()")
+    showWarning("chromecustomtabs.maylaunch()")
 end
 
 function lib.show()
